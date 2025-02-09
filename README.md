@@ -11,13 +11,6 @@ $ yarn install
 
 Copy .env.example to .env
 
-## Database migration and seed
-
-```bash
-$ yarn prisma:migrate
-$ yarn seed
-```
-
 
 ## Compile and run the project
 
