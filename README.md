@@ -31,8 +31,3 @@ $ yarn run start:prod
 # test coverage
 $ yarn run test:cov
 ```
-## Monitor database
-```bash
-# monitor database
-$ yarn prisma studio
-```
