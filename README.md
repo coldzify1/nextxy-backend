@@ -1,5 +1,11 @@
 
+# Movie API
+
 This project uses external api for movie data
+
+## API Document
+[API Document](https://nextxy-backend-production.up.railway.app/api)
+
 
 ## Project setup
 
@@ -28,6 +34,5 @@ $ yarn run start:prod
 ## Run tests
 
 ```bash
-# test coverage
 $ yarn run test:cov
 ```
